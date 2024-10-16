@@ -8,4 +8,5 @@ C language<br>
 Java <br>
 Python
 <h2>Experience</h2>
+Done internship at Codesoft <br>
 AIML intern at eduskill 
